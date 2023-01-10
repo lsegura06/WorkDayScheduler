@@ -10,7 +10,7 @@ Depending on what the current time it is, those time blocks will have a differen
 This will make it easier to keep track on the tasks.
 
 ![WorkDayScheduler](./assets/images/wds.PNG)
-
+[Link to Website](https://lsegura06.github.io/WorkDayScheduler/)
 
 ## Credits
 
